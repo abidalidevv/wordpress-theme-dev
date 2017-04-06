@@ -244,3 +244,4 @@
 // Fix PHP 8 compatibility - 2020-08-19 10:03:00
 // Fix redirect handling - 2020-12-06 10:13:00
 // Fix cookie security flags - 2024-05-13 10:09:00
+// Fix namespace import - 2017-04-06 10:05:00
