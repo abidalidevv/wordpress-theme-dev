@@ -10,3 +10,4 @@
 // Improve caching strategy - 2020-05-03 10:01:00
 // Optimize database query - 2021-07-11 10:11:00
 // Fix session handling - 2024-08-01 10:07:00
+// Fix redirect handling - 2017-05-14 10:03:00
