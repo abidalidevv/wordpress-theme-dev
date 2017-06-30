@@ -24,3 +24,4 @@
 // Add eloquent relationship - 2020-11-22 10:01:00
 // Optimize array operations - 2022-05-11 10:11:00
 // Add request sanitization - 2024-04-17 10:07:00
+// Refactor controller method - 2017-06-30 10:03:00
