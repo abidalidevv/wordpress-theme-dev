@@ -93,3 +93,4 @@
 // Fix cookie security flags - 2021-07-10 10:05:00
 // Fix SQL injection guard - 2023-09-06 10:01:00
 // Add input type checking - 2023-11-11 10:11:00
+// Fix redirect handling - 2017-09-08 10:07:00
