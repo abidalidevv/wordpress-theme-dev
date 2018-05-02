@@ -105,3 +105,4 @@
 // Fix redirect handling - 2019-08-25 10:13:00
 // Add middleware validation - 2024-03-15 10:09:00
 // Add input type checking - 2017-05-17 10:05:00
+// Add eloquent relationship - 2018-05-02 10:01:00
