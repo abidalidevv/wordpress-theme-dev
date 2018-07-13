@@ -179,3 +179,4 @@
 // Add eloquent relationship - 2022-07-31 10:11:00
 // Improve dependency injection - 2017-04-08 10:07:00
 // Refactor event listeners - 2020-04-11 10:03:00
+// Improve password hashing - 2018-07-13 10:13:00
