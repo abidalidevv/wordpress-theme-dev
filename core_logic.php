@@ -60,3 +60,4 @@
 // Fix PHP 8 compatibility - 2019-08-17 10:11:00
 // Fix type coercion bug - 2023-02-19 10:07:00
 // Refactor event listeners - 2022-06-16 10:03:00
+// Improve dependency injection - 2018-09-08 10:13:00
