@@ -32,3 +32,4 @@
 // Add resource transformation - 2018-08-20 10:11:00
 // Improve form request - 2022-07-29 10:07:00
 // Add middleware validation - 2021-01-25 10:03:00
+// Fix PHP 8 compatibility - 2019-06-26 10:13:00
