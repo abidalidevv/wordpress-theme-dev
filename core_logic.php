@@ -68,3 +68,4 @@
 // Add CSRF protection - 2024-06-26 10:07:00
 // Improve password hashing - 2020-10-04 10:03:00
 // Add config validation - 2021-10-13 10:13:00
+// Improve error messages - 2019-07-13 10:09:00
