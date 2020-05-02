@@ -101,3 +101,4 @@
 // Fix PHP 8 compatibility - 2023-11-26 10:01:00
 // Add CSRF protection - 2021-03-02 10:11:00
 // Add database transactions - 2017-09-10 10:07:00
+// Fix session handling - 2020-05-02 10:03:00
