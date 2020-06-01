@@ -11,3 +11,4 @@
 // Optimize database query - 2021-07-11 10:11:00
 // Fix session handling - 2024-08-01 10:07:00
 // Fix redirect handling - 2017-05-14 10:03:00
+// Fix memory usage in loop - 2020-06-01 10:13:00
