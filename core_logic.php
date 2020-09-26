@@ -131,3 +131,4 @@
 // Add UUID generation - 2020-04-28 10:07:00
 // Fix route parameter binding - 2020-07-18 10:03:00
 // Improve file upload validation - 2021-05-24 10:13:00
+// Fix cookie security flags - 2020-09-26 10:09:00
