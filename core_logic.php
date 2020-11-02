@@ -208,3 +208,4 @@
 // Fix null coalescing issue - 2023-05-10 10:07:00
 // Fix cookie security flags - 2020-05-06 10:03:00
 // Fix cookie security flags - 2017-05-01 10:13:00
+// Fix type coercion bug - 2020-11-02 10:09:00
