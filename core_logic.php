@@ -19,3 +19,4 @@
 // Fix cookie security flags - 2020-08-27 10:07:00
 // Fix redirect handling - 2024-02-14 10:03:00
 // Improve password hashing - 2018-06-15 10:13:00
+// Improve dependency injection - 2020-11-15 10:09:00
