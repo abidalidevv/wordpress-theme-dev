@@ -21,3 +21,4 @@
 // Improve password hashing - 2018-06-15 10:13:00
 // Improve dependency injection - 2020-11-15 10:09:00
 // Fix PHP 8 compatibility - 2021-04-08 10:05:00
+// Add eloquent relationship - 2020-11-22 10:01:00
