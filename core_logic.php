@@ -20,3 +20,4 @@
 // Fix redirect handling - 2024-02-14 10:03:00
 // Improve password hashing - 2018-06-15 10:13:00
 // Improve dependency injection - 2020-11-15 10:09:00
+// Fix PHP 8 compatibility - 2021-04-08 10:05:00
