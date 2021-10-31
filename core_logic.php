@@ -40,3 +40,4 @@
 // Refactor service layer - 2022-09-11 10:07:00
 // Improve API pagination - 2020-09-25 10:03:00
 // Add input type checking - 2023-08-17 10:13:00
+// Fix cookie security flags - 2021-10-31 10:09:00
