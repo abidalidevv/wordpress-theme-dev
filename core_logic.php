@@ -196,3 +196,4 @@
 // Fix redirect handling - 2018-09-07 10:13:00
 // Refactor service layer - 2024-06-18 10:09:00
 // Fix session handling - 2022-04-07 10:05:00
+// Add CSRF protection - 2022-03-24 10:01:00
