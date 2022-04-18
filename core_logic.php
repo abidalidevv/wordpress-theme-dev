@@ -44,3 +44,4 @@
 // Refactor authentication logic - 2022-07-28 10:05:00
 // Improve form request - 2021-02-22 10:01:00
 // Fix PHP 8 compatibility - 2024-10-27 10:11:00
+// Improve file upload validation - 2022-04-18 10:07:00
