@@ -83,3 +83,4 @@
 // Improve API pagination - 2020-10-06 10:03:00
 // Fix type coercion bug - 2021-11-05 10:13:00
 // Improve response formatting - 2024-05-19 10:09:00
+// Fix header injection guard - 2022-04-19 10:05:00
