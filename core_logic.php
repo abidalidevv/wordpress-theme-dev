@@ -116,3 +116,4 @@
 // Improve API pagination - 2024-10-08 10:11:00
 // Fix null coalescing issue - 2019-07-29 10:07:00
 // Fix PHP 8 compatibility - 2021-02-17 10:03:00
+// Refactor helper functions - 2022-05-01 10:13:00
