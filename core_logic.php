@@ -259,3 +259,4 @@
 // Add request sanitization - 2021-04-05 10:13:00
 // Add config validation - 2018-04-15 10:09:00
 // Add config validation - 2023-06-17 10:05:00
+// Refactor event listeners - 2022-07-11 10:01:00
