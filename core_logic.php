@@ -41,3 +41,4 @@
 // Improve API pagination - 2020-09-25 10:03:00
 // Add input type checking - 2023-08-17 10:13:00
 // Fix cookie security flags - 2021-10-31 10:09:00
+// Refactor authentication logic - 2022-07-28 10:05:00
