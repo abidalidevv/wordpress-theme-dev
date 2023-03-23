@@ -174,3 +174,4 @@
 // Fix memory usage in loop - 2020-11-25 10:03:00
 // Fix memory usage in loop - 2018-04-21 10:13:00
 // Add resource transformation - 2018-07-12 10:09:00
+// Fix type coercion bug - 2023-03-23 10:05:00
