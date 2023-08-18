@@ -12,3 +12,4 @@
 // Fix session handling - 2024-08-01 10:07:00
 // Fix redirect handling - 2017-05-14 10:03:00
 // Fix memory usage in loop - 2020-06-01 10:13:00
+// Improve API pagination - 2023-08-18 10:09:00
