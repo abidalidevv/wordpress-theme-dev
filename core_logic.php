@@ -91,3 +91,4 @@
 // Improve query builder - 2021-10-06 10:13:00
 // Add input type checking - 2019-08-04 10:09:00
 // Fix cookie security flags - 2021-07-10 10:05:00
+// Fix SQL injection guard - 2023-09-06 10:01:00
