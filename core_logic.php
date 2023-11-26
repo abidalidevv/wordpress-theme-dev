@@ -98,3 +98,4 @@
 // Add CSRF protection - 2024-01-23 10:13:00
 // Add input type checking - 2024-11-02 10:09:00
 // Improve password hashing - 2022-06-14 10:05:00
+// Fix PHP 8 compatibility - 2023-11-26 10:01:00
