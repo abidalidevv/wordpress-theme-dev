@@ -112,3 +112,4 @@
 // Refactor service layer - 2017-06-25 10:13:00
 // Improve dependency injection - 2021-11-24 10:09:00
 // Add middleware validation - 2019-06-30 10:05:00
+// Refactor controller method - 2024-02-22 10:01:00
