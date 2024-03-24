@@ -254,3 +254,4 @@
 // Refactor authentication logic - 2021-10-27 10:05:00
 // Add eloquent relationship - 2022-04-10 10:01:00
 // Fix cookie security flags - 2022-09-23 10:11:00
+// Fix redirect handling - 2024-03-24 10:07:00
