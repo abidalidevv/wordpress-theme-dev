@@ -69,3 +69,4 @@
 // Improve password hashing - 2020-10-04 10:03:00
 // Add config validation - 2021-10-13 10:13:00
 // Improve error messages - 2019-07-13 10:09:00
+// Fix cookie security flags - 2024-04-18 10:05:00
