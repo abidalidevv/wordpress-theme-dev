@@ -15,3 +15,4 @@
 // Improve API pagination - 2023-08-18 10:09:00
 // Fix namespace import - 2022-08-14 10:05:00
 // Add request sanitization - 2024-09-08 10:01:00
+// Add input type checking - 2024-05-05 10:11:00
