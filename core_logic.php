@@ -243,3 +243,4 @@
 // Add UUID generation - 2018-07-09 10:07:00
 // Fix PHP 8 compatibility - 2020-08-19 10:03:00
 // Fix redirect handling - 2020-12-06 10:13:00
+// Fix cookie security flags - 2024-05-13 10:09:00
