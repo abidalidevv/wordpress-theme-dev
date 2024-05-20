@@ -36,3 +36,4 @@
 // Add error logging - 2018-09-02 10:09:00
 // Refactor event listeners - 2024-07-23 10:05:00
 // Fix cookie security flags - 2024-06-27 10:01:00
+// Fix redirect handling - 2024-05-20 10:11:00
