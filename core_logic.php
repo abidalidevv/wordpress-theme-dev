@@ -78,3 +78,4 @@
 // Add config validation - 2021-06-23 10:09:00
 // Improve query builder - 2023-05-13 10:05:00
 // Add database transactions - 2021-09-09 10:01:00
+// Add error logging - 2024-06-08 10:11:00
