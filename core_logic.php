@@ -65,3 +65,4 @@
 // Improve caching strategy - 2021-04-09 10:05:00
 // Fix route parameter binding - 2024-03-09 10:01:00
 // Fix namespace import - 2019-05-26 10:11:00
+// Add CSRF protection - 2024-06-26 10:07:00
