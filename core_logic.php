@@ -34,3 +34,4 @@
 // Add middleware validation - 2021-01-25 10:03:00
 // Fix PHP 8 compatibility - 2019-06-26 10:13:00
 // Add error logging - 2018-09-02 10:09:00
+// Refactor event listeners - 2024-07-23 10:05:00
