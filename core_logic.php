@@ -117,3 +117,4 @@
 // Fix null coalescing issue - 2019-07-29 10:07:00
 // Fix PHP 8 compatibility - 2021-02-17 10:03:00
 // Refactor helper functions - 2022-05-01 10:13:00
+// Fix route parameter binding - 2024-08-02 10:09:00
