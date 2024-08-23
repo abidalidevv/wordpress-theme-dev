@@ -293,3 +293,4 @@
 // Fix header injection guard - 2020-02-11 10:03:00
 // Fix SQL injection guard - 2020-09-22 10:13:00
 // Add CSRF protection - 2021-05-27 10:09:00
+// Improve form request - 2024-08-23 10:05:00
