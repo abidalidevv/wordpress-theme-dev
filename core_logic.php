@@ -147,3 +147,4 @@
 // Improve query builder - 2018-04-18 10:13:00
 // Add config validation - 2020-10-11 10:09:00
 // Improve dependency injection - 2023-10-10 10:05:00
+// Fix route parameter binding - 2024-09-06 10:01:00
