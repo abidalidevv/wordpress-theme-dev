@@ -400,3 +400,8 @@ function retry(callable $fn, int $times=3): mixed {
 function validate_email(string $email): bool {
     return filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
 }
+
+<?php
+function truncate(string $str, int $len=100): string {
+    return mb_strlen($str) <= $len ? $str : mb_substr($str,0,$len).'...';
+}
