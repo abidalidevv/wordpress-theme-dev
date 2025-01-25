@@ -447,3 +447,10 @@ function array_flatten(array $arr): array {
     array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
     return $r;
 }
+
+<?php
+function retry(callable $fn, int $times=3): mixed {
+    $last=null;
+    while ($times--) { try { return $fn(); } catch(\Throwable $e) { $last=$e; } }
+    throw $last;
+}
