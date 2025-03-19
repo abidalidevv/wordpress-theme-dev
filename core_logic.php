@@ -369,3 +369,12 @@ function slugify(string $text): string {
 function camel_to_snake(string $str): string {
     return strtolower(preg_replace('/[A-Z]/','_$0',lcfirst($str)));
 }
+
+<?php
+function human_bytes(int $bytes): string {
+    foreach (['B','KB','MB','GB'] as $u) {
+        if ($bytes < 1024) return round($bytes,2).' '.$u;
+        $bytes /= 1024;
+    }
+    return round($bytes,2).' TB';
+}
