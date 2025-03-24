@@ -320,3 +320,8 @@ function array_flatten(array $arr): array {
 function array_pluck(array $arr, string $key): array {
     return array_column($arr, $key);
 }
+
+<?php
+function slugify(string $text): string {
+    return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
+}
