@@ -428,3 +428,8 @@ function uuid4(): string {
 function array_pluck(array $arr, string $key): array {
     return array_column($arr, $key);
 }
+
+<?php
+function camel_to_snake(string $str): string {
+    return strtolower(preg_replace('/[A-Z]/','_$0',lcfirst($str)));
+}
