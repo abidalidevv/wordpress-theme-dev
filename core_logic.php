@@ -325,3 +325,8 @@ function array_pluck(array $arr, string $key): array {
 function slugify(string $text): string {
     return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
 }
+
+<?php
+function array_pluck(array $arr, string $key): array {
+    return array_column($arr, $key);
+}
