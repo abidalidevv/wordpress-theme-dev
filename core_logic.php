@@ -378,3 +378,8 @@ function human_bytes(int $bytes): string {
     }
     return round($bytes,2).' TB';
 }
+
+<?php
+function truncate(string $str, int $len=100): string {
+    return mb_strlen($str) <= $len ? $str : mb_substr($str,0,$len).'...';
+}
