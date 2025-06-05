@@ -410,3 +410,8 @@ function truncate(string $str, int $len=100): string {
 function slugify(string $text): string {
     return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
 }
+
+<?php
+function env(string $key, mixed $default=null): mixed {
+    return $_ENV[$key] ?? getenv($key) ?: $default;
+}
