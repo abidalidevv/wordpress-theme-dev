@@ -383,3 +383,8 @@ function human_bytes(int $bytes): string {
 function truncate(string $str, int $len=100): string {
     return mb_strlen($str) <= $len ? $str : mb_substr($str,0,$len).'...';
 }
+
+<?php
+function env(string $key, mixed $default=null): mixed {
+    return $_ENV[$key] ?? getenv($key) ?: $default;
+}
