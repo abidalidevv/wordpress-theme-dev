@@ -308,3 +308,10 @@ function human_bytes(int $bytes): string {
     }
     return round($bytes,2).' TB';
 }
+
+<?php
+function array_flatten(array $arr): array {
+    $r = [];
+    array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
+    return $r;
+}
