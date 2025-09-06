@@ -471,3 +471,10 @@ function retry(callable $fn, int $times=3): mixed {
 function validate_email(string $email): bool {
     return filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
 }
+
+<?php
+function array_flatten(array $arr): array {
+    $r = [];
+    array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
+    return $r;
+}
