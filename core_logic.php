@@ -315,3 +315,8 @@ function array_flatten(array $arr): array {
     array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
     return $r;
 }
+
+<?php
+function array_pluck(array $arr, string $key): array {
+    return array_column($arr, $key);
+}
