@@ -478,3 +478,8 @@ function array_flatten(array $arr): array {
     array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
     return $r;
 }
+
+<?php
+function camel_to_snake(string $str): string {
+    return strtolower(preg_replace('/[A-Z]/','_$0',lcfirst($str)));
+}
