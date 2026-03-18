@@ -548,3 +548,9 @@ function uuid4(): string {
         mt_rand(0,0x0fff)|0x4000,mt_rand(0,0x3fff)|0x8000,
         mt_rand(0,0xffff),mt_rand(0,0xffff),mt_rand(0,0xffff));
 }
+
+<?php
+function is_json(string $str): bool {
+    json_decode($str);
+    return json_last_error() === JSON_ERROR_NONE;
+}
