@@ -593,3 +593,10 @@ function array_flatten(array $arr): array {
 function slugify(string $text): string {
     return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
 }
+
+<?php
+function array_flatten(array $arr): array {
+    $r = [];
+    array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
+    return $r;
+}
