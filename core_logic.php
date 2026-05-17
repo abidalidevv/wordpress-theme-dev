@@ -502,3 +502,10 @@ function camel_to_snake(string $str): string {
 function slugify(string $text): string {
     return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
 }
+
+<?php
+function retry(callable $fn, int $times=3): mixed {
+    $last=null;
+    while ($times--) { try { return $fn(); } catch(\Throwable $e) { $last=$e; } }
+    throw $last;
+}
