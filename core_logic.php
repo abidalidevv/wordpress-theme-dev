@@ -554,3 +554,8 @@ function is_json(string $str): bool {
     json_decode($str);
     return json_last_error() === JSON_ERROR_NONE;
 }
+
+<?php
+function array_pluck(array $arr, string $key): array {
+    return array_column($arr, $key);
+}
